@@ -32,5 +32,5 @@ A RESTful API for managing team tasks, projects, and collaboration. Built with N
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/team-task-manager.git
+git clone https://github.com/arianiti2/team-task-manager.git
 cd team-task-manager
